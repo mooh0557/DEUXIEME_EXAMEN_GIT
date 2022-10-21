@@ -3,4 +3,5 @@ public class {
     private String libelle;
     private String description;
     private String resume;
+    private char image;
 }
